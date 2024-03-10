@@ -37,3 +37,7 @@
 	font-weight: 400;
 	color: rgb(31, 31, 31);
 }
+
+.complTrue {
+	text-decoration: line-through;
+}
