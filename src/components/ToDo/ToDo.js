@@ -10,7 +10,7 @@ import {
 
 const ToDo = () => {
 	const dispatch = useDispatch()
-	const todos = useSelector((state) => state.todos.todos)
+	const todos = useSelector((state) => state.todo.todos)
 
 	const [inputValue, setInputValue] = useState("")
 
